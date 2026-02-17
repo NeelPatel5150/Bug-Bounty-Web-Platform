@@ -21,6 +21,7 @@ function App() {
       <Route path="/bug/:id" element={<BugDetails />} />
       <Route path="/profile" element={<Profile />} />
     </Routes>
+
   );
 }
 
